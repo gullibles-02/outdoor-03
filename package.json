@@ -1,10 +1,13 @@
 {
-  "name": "uJ9bY2lhd4Icsz6TNfZc4hBvR1sCXaCUMcmlJs2gAerBgRU6jS",
+  "name": "huaydee สรุปว่าอะไร - เว็บใหม่ choke 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.4",
   "description": "Huaydee ผลการออกรางวัล ว่าด้วย Huaydee Choke โชค หวยออนไลน์ มีหวยทุกชนิด หวยฮานอย ( Xổ Số Hà NộI ) ทั้ง 3 แบบ ฮานอย ปกติฮานอย พิเศษฮานอย Vipผลหวยฮานอย พิเศ",
   "repository": "https://github.com/gullibles-02/outdoor-03",
-  "keywords": ["HUAYDEE","HUAYDEE Choke"],
+  "keywords": [
+    "HUAYDEE",
+    "HUAYDEE Choke"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

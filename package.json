@@ -1,13 +1,10 @@
 {
-  "name": "huaykk เล่นยังไง - เว็บใหม่ lotto 2023 ล่าสุด",
+  "name": "n6Z0gj3pm69q0OGnAgMGbwpMaXHlc1cFq7re665OdbuHyxyPCu",
   "theme": "syntax",
   "version": "1.0.7",
   "description": "HUAYKK ผลการออกสลากกินแบ่งรัฐบาล กับ HUAYKK Lotto หวยออนไลน์ อันดับหนึ่ง ประจำงวดวันที่ 16 ธันวาคม 2566รางวัลที่ สอง 5 รางวัล 200000รางวัลที่ สาม 10 รางวัล",
   "repository": "https://github.com/gullibles-02/outdoor-03",
-  "keywords": [
-    "HUAYKK",
-    "HUAYKK Lotto"
-  ],
+  "keywords": ["HUAYKK","HUAYKK Lotto"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

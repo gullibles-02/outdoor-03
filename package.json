@@ -1,10 +1,13 @@
 {
-  "name": "YWHjghIpE21QUQNP1oOPsXCrATPrGPh3DdZHeNz9OAzS36aZ0K",
+  "name": "choked ที่ไหน - เว็บใหม่ huay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.21",
   "description": "choked เด่น ตาม choked Huay หวย หวยออนไลน์ มีหวยทุกชนิด 2-6-7 ได้ชุดเลขท้าย 2 ตัวดังนี้20-0206-6007-7052-2596-6997-79หากคอหวยชื่นชอบเลขเด็ดงวดนี้จากหวยใบเง",
   "repository": "https://github.com/gullibles-02/outdoor-03",
-  "keywords": ["CHOKED","CHOKED Huay"],
+  "keywords": [
+    "CHOKED",
+    "CHOKED Huay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

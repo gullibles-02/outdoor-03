@@ -1,13 +1,10 @@
 {
-  "name": "huaydee สรุปว่าอะไร - เว็บใหม่ choke 2023 ล่าสุด",
+  "name": "Ld7gBdhtAgysU9WOIS1JK3fEgh0kL6c4jx5yfT2DE6bPTU3sVu",
   "theme": "syntax",
   "version": "1.0.6",
-  "description": "Huaydee ผลการออกรางวัล ว่าด้วย Huaydee Choke โชค หวยออนไลน์ มีหวยทุกชนิด หวยฮานอย ( Xổ Số Hà NộI ) ทั้ง 3 แบบ ฮานอย ปกติฮานอย พิเศษฮานอย Vipผลหวยฮานอย พิเศ",
+  "description": "HUAYKK ผลการออกสลากกินแบ่งรัฐบาล กับ HUAYKK Lotto หวยออนไลน์ อันดับหนึ่ง ประจำงวดวันที่ 16 ธันวาคม 2566รางวัลที่ สอง 5 รางวัล 200000รางวัลที่ สาม 10 รางวัล",
   "repository": "https://github.com/gullibles-02/outdoor-03",
-  "keywords": [
-    "HUAYDEE",
-    "HUAYDEE Choke"
-  ],
+  "keywords": ["HUAYKK","HUAYKK Lotto"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

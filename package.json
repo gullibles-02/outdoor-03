@@ -1,10 +1,22 @@
 {
-  "name": "5QElmEgrau3gnkarh1TanJRjhJcCKw5z14IcjkKeca64XFADg9",
+  "name": "ตรวจหวย 1 มีนาคม 2565 sanook เล่นยังไง - เว็บใหม่ ruay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.45",
   "description": "ตรวจหวย 1 มีนาคม 2565 sanook เลขชุด ตาม ตรวจหวย 1 มีนาคม 2565 sanook Ruay หวยออนไลน์ อันดับหนึ่ง 0325เลข 2 ตัว   56 59 75 60 76 55รูด วิ่ง     5 6ได้แนวทาง",
   "repository": "https://github.com/gullibles-02/outdoor-03",
-  "keywords": ["ตรวจหวย 1 มีนาคม 2565 SANOOK","ตรวจหวย","1","มีนาคม","2565","SANOOK","ตรวจหวย Ruay","1 Ruay","มีนาคม Ruay","2565 Ruay","SANOOK Ruay"],
+  "keywords": [
+    "ตรวจหวย 1 มีนาคม 2565 SANOOK",
+    "ตรวจหวย",
+    "1",
+    "มีนาคม",
+    "2565",
+    "SANOOK",
+    "ตรวจหวย Ruay",
+    "1 Ruay",
+    "มีนาคม Ruay",
+    "2565 Ruay",
+    "SANOOK Ruay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
